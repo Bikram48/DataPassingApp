@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataPassing2</string>
+    <string name="submit_txt">SUBMIT</string>
+    <string name="display_third_activity">DISPLAY THIRD ACTIVITY</string>
+    <string name="nametag">Please enter your name:</string>
+    <string name="second_activity_title">Second Activity</string>
+</resources>
